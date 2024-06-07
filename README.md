@@ -1,4 +1,4 @@
-# discordbot
+# inegol_bot
 <h1 align="center">Discord için yapay zeka destekli moderasyon botu</h1>
 <p align="center">Bot şuanda da aktif bir discord sunucusunda kullanılmaktadır..</p>
 <p align="center">Sunucumuzda 5 klan olduğu için kodlarda ona yönelik. Kendi sunucuz için bir modifasyon yapmanız gerekecek.</p>
