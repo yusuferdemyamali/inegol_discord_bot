@@ -26,7 +26,7 @@
     ```sh
     pip install -r requirements.txt
     ```
-3.  Configure your `.env` file. Enter your Discord bot token, MongoDB connection string, and other necessary information.
+3.  Configure your `.config` file. Enter your Discord bot token, MongoDB connection string, and other necessary information.
 4.  Start the bot:
     ```sh
     python main.py
